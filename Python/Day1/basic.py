@@ -27,4 +27,5 @@ print(arr)
 #pandas
 df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})
 print(df)
+print("End of Day 1")
 
